@@ -42,3 +42,6 @@ typedef struct instruction_s
 
 
 void f_push(stack_t **head, unsigned int number);
+void f_pall(stack_t **head, unsigned int number);
+
+#endif
